@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
 Name: ksero-payer-rules
-Version: 0.1.0
-Summary: Payer-specific rules and validation for medical, dental, and vision insurance cards
-Home-page: https://github.com/yourusername/ksero-payer-rules
+Version: 0.1.1
+Summary: Payer-specific rules and validation for insurance card OCR
+Home-page: https://github.com/DV1-321/ksero-payer-rules
 Author: David Ferguson
 Author-email: you@example.com
 Classifier: Programming Language :: Python :: 3
@@ -21,6 +21,11 @@ Dynamic: home-page
 Dynamic: license-file
 Dynamic: requires-python
 Dynamic: summary
+
+![PyPI](https://img.shields.io/pypi/v/ksero-payer-rules)
+![Python](https://img.shields.io/pypi/pyversions/ksero-payer-rules)
+![License](https://img.shields.io/github/license/DV1-321/ksero-payer-rules)
+# ![Tests](https://img.shields.io/github/actions/workflow/status/DV1-321/ksero-payer-rules/tests.yml)
 
 # Ksero Payer Rules
 

@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="ksero-payer-rules",
-    version="0.1.0",
-    description="Payer-specific rules and validation for medical, dental, and vision insurance cards",
+    version="0.1.1",
+    description="Payer-specific rules and validation for insurance card OCR",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="David Ferguson",
     author_email="you@example.com",
-    url="https://github.com/yourusername/ksero-payer-rules",
+    url="https://github.com/DV1-321/ksero-payer-rules",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
