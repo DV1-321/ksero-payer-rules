@@ -1,7 +1,7 @@
 ![PyPI](https://img.shields.io/pypi/v/ksero-payer-rules)
 ![Python](https://img.shields.io/pypi/pyversions/ksero-payer-rules)
-![License](https://img.shields.io/github/license/yourusername/ksero-payer-rules)
-![Tests](https://img.shields.io/github/actions/workflow/status/yourusername/ksero-payer-rules/tests.yml)
+![License](https://img.shields.io/github/license/DV1-321/ksero-payer-rules)
+![Tests](https://img.shields.io/github/actions/workflow/status/DV1-321/ksero-payer-rules/tests.yml)
 
 # Ksero Payer Rules
 
