@@ -6,7 +6,7 @@ setup(
     description="Payer-specific rules and validation for insurance card OCR",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="David Ferguson",
+    author="David Fergins",
     author_email="you@example.com",
     url="https://github.com/DV1-321/ksero-payer-rules",
     packages=find_packages(),
